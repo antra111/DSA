@@ -1,4 +1,4 @@
-package com.antra;
+package com.antra.basics;
 
 public class Palindrome {
 	public static void main(String[] args) {
