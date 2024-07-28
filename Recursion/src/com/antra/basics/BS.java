@@ -1,4 +1,4 @@
-package com.antra;
+package com.antra.basics;
 
 import java.util.Scanner;
 

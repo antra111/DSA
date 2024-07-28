@@ -1,4 +1,4 @@
-package com.antra;
+package com.antra.basics;
 
 public class ReverseANumber {
 	public static int sum=0;
